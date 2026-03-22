@@ -1,0 +1,8 @@
+chat-app/
+  ├── src/
+  │   ├── App.js
+  │   ├── Login.js
+  │   ├── ChatWindow.js
+  │   ├── MessageInput.js
+  │   ├── UserContext.js
+  │   └── index.js
